@@ -85,7 +85,7 @@ Here's an example of my profile
 5. Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 8. Wait for your Pull Request review and merge approval!
 9. Star this repository if you had fun!
-10. Enjoy and welcome to Hacktoberfest 2019 and Keep Contributing :)
+10. Enjoy and welcome to Hacktoberfest 2019 and Keep Contributing.
 
 ***
 
